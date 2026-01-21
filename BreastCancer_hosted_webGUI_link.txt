@@ -1,5 +1,5 @@
-Name: Awa Emmanuel
-Matric Number: 23CE034385
+Name: Ekoi Anametop Joseph
+Matric Number: 23CG034061
 Machine Learning Algorithm Used: Support Vector Machine (SVM)
 Model Persistence Method: Pickle
 Hosted App URL: https://breast-cancer-project-awa-emmanuel.onrender.com/
