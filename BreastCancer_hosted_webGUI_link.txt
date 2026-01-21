@@ -1,0 +1,6 @@
+Name: Awa Emmanuel
+Matric Number: 23CE034385
+Machine Learning Algorithm Used: Support Vector Machine (SVM)
+Model Persistence Method: Pickle
+Hosted App URL: https://breast-cancer-project-awa-emmanuel.onrender.com/
+GitHub Repo Link: https://github.com/AwaEmmanuel-lab/Breast_Cancer_Project_Awa_Emmanuel_23CE034385
