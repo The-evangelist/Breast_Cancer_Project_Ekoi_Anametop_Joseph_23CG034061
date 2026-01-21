@@ -2,5 +2,5 @@ Name: Ekoi Anametop Joseph
 Matric Number: 23CG034061
 Machine Learning Algorithm Used: Support Vector Machine (SVM)
 Model Persistence Method: Pickle
-Hosted App URL: https://breast-cancer-project-awa-emmanuel.onrender.com/
-GitHub Repo Link: https://github.com/AwaEmmanuel-lab/Breast_Cancer_Project_Awa_Emmanuel_23CE034385
+Hosted App URL: https://breast-cancer-project-ekoi-anametop.vercel.app/
+GitHub Repo Link: https://github.com/The-evangelist/Breast_Cancer_Project_Ekoi_Anametop_Joseph_23CG034061
